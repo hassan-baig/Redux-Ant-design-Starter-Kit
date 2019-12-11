@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Installed Libraries
+
+React Redux
+React Router
+Ant design
+History
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
